@@ -1,0 +1,13 @@
+node_modules/
+.vscode/
+.next/
+.keystone/
+./frontend/.vscode
+./frontend/node_modules
+./frontend/.next
+./backend/.vscode
+./backend/node_modules
+./backend/.keystone
+.DS_Store
+.env
+
